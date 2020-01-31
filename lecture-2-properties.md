@@ -32,7 +32,9 @@ Write the CSS to make the cat text blue.
 
 ```css
 /* css here */
-
+.feline {
+  color:blue;
+}
 ```
 
 ---
@@ -49,6 +51,9 @@ Write the CSS to make the cat text blue.
 
 ```css
 /* css here */
+h2 {
+  color:blue;
+}
 
 ```
 
@@ -65,6 +70,9 @@ Write the CSS to make the cat text blue.
 
 ```css
 /* css here */
+.royalcat {
+  color:blue;
+}
 
 ```
 
@@ -83,6 +91,10 @@ Write the CSS to make the dogs text red.
 ```css
 /* css here */
 
+.canine{
+  color:red
+}
+
 ```
 
 ---
@@ -99,6 +111,9 @@ Write the CSS to make the dogs text red.
 
 ```css
 /* css here */
+h1 {
+  color:red
+}
 
 ```
 
@@ -118,6 +133,8 @@ p {
     color: red
 }
 
+
+its blue
 ```
 
 ---
